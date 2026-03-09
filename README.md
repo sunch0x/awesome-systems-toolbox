@@ -4,7 +4,7 @@ Curated toolbox for my personal “human runtime”: crypto, AI, coding, OSINT, 
 
 > So I don’t have to reinstall my brain for every new project.  
 > Instead of chasing half‑forgotten links in chats, everything lives here as a structured, shared toolbox that anyone can borrow from.
-
+> Also available in: [Русская версия](./README.ru.md)
 
 ---
 ## Inspiration
