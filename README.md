@@ -145,40 +145,41 @@ This is my way to give something back: collect what worked for me, filter out th
  – notes, privacy, analytics, health and other “life ops”
 
 ---
-
 ## Contributing
 
-This is primarily my toolbox, but I’m happy to discover new tools.
+I’m always happy to discover new tools.  
+If you think something belongs here:
 
-If you think something fits here:
+- open an issue with a link  
+- add 1–2 sentences on why it’s actually good and which section it fits into  
 
-- open an issue with a link
-- add 1–2 sentences why it’s actually good and where it belongs
-
-If you like, you can also send a small PR that updates the relevant table/section
-
+---
 
 ## Stay in touch
 
-If you want to see how I actually use this toolbox in practice or catch new additions in context:
+If you want to see how I actually use this toolbox in practice, or you’re just curious about my content and experiments:
 
-- [**TWITTER / X (ENG):**](https://x.com/@Almorfortwit)  
-- [**Telegram (RU):**](https://t.me/sunch_exe)  
-- [**Obsidian / notes repo:**](https://publish.obsidian.md/sunch0x.dev)
+- TWITTER / X (ENG): https://x.com/@Almorfortwit  
+- Telegram (RU): https://t.me/sunch_exe  
+- Obsidian / notes repo: https://publish.obsidian.md/sunch0x.dev  
+
+---
 
 ## License
 
-This work is licensed under the [Creative Commons Attribution 4.0 International License (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/).
+Nothing suffocating here: just link back to me — it’s nice to know this work is useful to someone.
 
-You are free to:
+This repository is licensed under [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/).
+
+You are allowed to:
 
 - **Share** — copy and redistribute the material in any medium or format  
 - **Adapt** — remix, transform, and build upon the material for any purpose, even commercially  
 
-Under the following terms:
+Under the following condition:
 
-- **Attribution** — You must give appropriate credit, provide a link to this repository, and indicate if changes were made.  
-  A simple way to do this is:
+- **Attribution** — you must give appropriate credit and link back to this repository.  
 
-  > Based on the “awesome-systems-toolbox” curated by [sunch0x](https://github.com/sunch0x).
+A simple way to do this is:
 
+> Based on the “awesome-systems-toolbox” curated by [sunch0x](https://github.com/sunch0x).
