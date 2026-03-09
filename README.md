@@ -1,47 +1,46 @@
 # Awesome Systems Toolbox
 
-Curated toolbox for my personal “human runtime”: crypto, AI, coding, OSINT, design, and everyday life systems. A living library of tools, references, and workflows I actually use and keep updating.
+Topics: crypto, AI, coding, OSINT, design, and everyday life systems. A library of tools, links, and workflows that I actually use and keep updating.
 
-> So I don’t have to reinstall my brain for every new project.  
-> Instead of chasing half‑forgotten links in chats, everything lives here as a structured, shared toolbox that anyone can borrow from.
-> Also available in: [Русская версия](./README.ru.md)
+> This is where I organize my stack so I can reuse it quickly without rebuilding it from scratch every time.  
+> And it’s an open shelf: if any of this helps your projects, feel free to borrow it.  
+> Also available in: [Russian version](./README.ru.md)
 
 ---
+
 ## Inspiration
 
 I’m building this as a public toolbox, not a private stash.
 
-I don’t want everyone to waste hours on the same boring research I already did.  
-If this repo works as intended, you can:
+I don’t want you to waste hours on the same research I already did once.  
+With this repo, you can:
 
-- grab a set of tested tools for a new project in minutes, not hours  
-- reuse patterns for UI, infra, crypto, OSINT, and life  
-- share one link instead of a long “here’s my stack” message
+- grab a set of tested tools for a new project in minutes instead of hours  
+- reuse patterns for UI, infra, crypto, OSINT, and “life ops”  
 
-This is my way to give back a bit: collect what worked for me, filter out noise, and leave only the things that actually helped me ship and stay sane.
+This is my way to give something back: collect what worked for me, filter out the noise, and keep only the things that helped me actually ship.
 
 ---
 
 ## Some pointers
 
-- This is opinionated and personal.  
-  It’s not meant to be exhaustive or “objective”. If a tool is here, it either:
+- This is an opinionated, personal collection.  
+  It is not meant to be exhaustive or “objective”. If a tool is here, it either:
   - survived at least one real use case for me, or  
   - looks strong enough to be tested soon.
 
-- Sections are organized by systems, not by hype:
+- Sections are ordered top‑to‑bottom, not by “rank”:
   - Design / vibe‑UI  
   - AI & coding  
   - Crypto  
   - OSINT  
   - Life infrastructure  
 
-- I prefer:
-  - tools that are reasonably privacy‑respecting and not pure surveillance‑adware  
-  - products with clear, practical value (not just a shiny AI wrapper)
+- I tend to prefer:
+  - tools that are at least somewhat privacy‑respecting and not pure surveillance‑adware  
+  - products with clear, practical value (not just another shiny AI wrapper)
 
-- Some entries may be paid or closed‑source if they are genuinely useful.  
-  This is a systems toolbox, not a strict FOSS‑only list.
+- Some entries may be paid or closed‑source if they’re genuinely useful.
 
 ---
 
