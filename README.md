@@ -159,7 +159,7 @@ If you think something belongs here:
 
 If you want to see how I actually use this toolbox in practice, or you’re just curious about my content and experiments:
 
-- TWITTER / X (ENG): https://x.com/@Almorfortwit  
+- TWITTER / X (ENG): https://x.com/@sunch0x 
 - Telegram (RU): https://t.me/sunch_exe  
 - Obsidian / notes repo: https://publish.obsidian.md/sunch0x.dev  
 
