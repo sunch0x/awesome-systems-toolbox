@@ -30,11 +30,6 @@ This is my way to give something back: collect what worked for me, filter out th
   - looks strong enough to be tested soon.
 
 - Sections are ordered top‑to‑bottom, not by “rank”:
-  - Design / vibe‑UI  
-  - AI & coding  
-  - Crypto  
-  - OSINT  
-  - Life infrastructure  
 
 - I tend to prefer:
   - tools that are at least somewhat privacy‑respecting and not pure surveillance‑adware  
