@@ -43,15 +43,29 @@ This is my way to give something back: collect what worked for me, filter out th
 - Some entries may be paid or closed‑source if they’re genuinely useful.
 
 ---
-
 ## Contents
 
 - [Design / Vibe UI](#design--vibe-ui)  
 - [AI & Coding](#ai--coding)  
+  - [AI coding environments](#ai-coding-environments)  
+  - [General AI / chat](#general-ai--chat)  
+  - [Dev tooling & automation](#dev-tooling--automation)  
 - [Crypto](#crypto)  
+  - [Wallets & key management](#wallets--key-management)  
+  - [On‑chain analytics & explorers](#on-chain-analytics--explorers)  
+  - [Market data & rankings](#market-data--rankings)  
+  - [Infra / privacy / accounts](#infra--privacy--accounts)  
+  - [Numbers, SIMs, cards](#numbers-sims-cards)  
 - [OSINT](#osint)  
+  - [People / profiles](#people--profiles)  
+  - [Domains, IP, infrastructure](#domains-ip-infrastructure)  
+  - [Crypto OSINT](#crypto-osint)  
 - [Life Infrastructure](#life-infrastructure)  
+  - [Notes & knowledge](#notes--knowledge)  
+  - [Health / tracking](#health--tracking)  
+  - [Ops / privacy / money](#ops--privacy--money)  
 - [Contributing](#contributing)
+
 
 ---
 
