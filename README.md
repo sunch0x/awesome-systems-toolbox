@@ -105,7 +105,7 @@ This is my way to give something back: collect what worked for me, filter out th
 |---------------|----------------|-------------------------------------------------------------------|
 | Figr Identity | (Figma plugin) | Auto‑building identity systems and design tokens directly in Figma|
 | Higgsfield    | https://higgsfield.ai | Generating hero images and seamless video loops / short promos with AI |
-| Logo Diffusion| —              | Rapid‑fire logo exploration via diffusion before polishing in Figma |
+| Logo Diffusion| https://logodiffusion.com | Rapid‑fire logo exploration via diffusion before polishing in Figma |
 
 ### 3D, animation & FX
 
@@ -125,13 +125,6 @@ This is my way to give something back: collect what worked for me, filter out th
 | Flamel 3D      | (Figma plugin)           | Generating consistent 3D icon sets with AI directly in Figma                |
 | Figma AI (Make)| —                        | Quickly drafting screens and React code from textual app descriptions        |
 
-### AI & code (UI side)
-
-| Tool / Site          | Link                     | What it’s for                                                                 |
-|----------------------|--------------------------|-------------------------------------------------------------------------------|
-| v0 by Vercel         | https://v0.dev           | Generating clean React/Next/Tailwind UI (landings, dashboards, routes) from prompts |
-| Any AI chat bot      | e.g. https://www.perplexity.ai | Using an LLM as an external brain for patterns, prompts and design guidance |
-| Cursor / Claude Code | —                        | Turning ideas and UI into working code, refactoring and wiring backend logic |
 
 ---
 
@@ -202,8 +195,8 @@ This is my way to give something back: collect what worked for me, filter out th
 
 | Tool / Site | Link | What it’s for |
 |------------|------|---------------|
-| HAPP | — | Proxy / VPN / anonymity layer around your crypto activity (describe your exact setup) |
-| Stealthsurf | — | Private browsing / residential IPs / bypassing geo‑restrictions |
+| HAPP | https://www.happ.su/main | Proxy / VPN / anonymity layer around your crypto activity (describe your exact setup) |
+| Stealthsurf | https://stealthsurf.app | Private browsing / residential IPs / bypassing geo‑restrictions |
 | Webshare | https://www.webshare.io | Rotating proxies for farming and multi‑account setups |
 
 ### Numbers, SIMs, cards
@@ -211,7 +204,7 @@ This is my way to give something back: collect what worked for me, filter out th
 | Tool / Site | Link | What it’s for |
 |------------|------|---------------|
 | 5SIM | https://5sim.net | Temporary phone numbers for exchange / service registrations |
-| Solcard | — | Fiat ↔ Solana cards / payment bridges — describe how you actually use it |
+| Solcard | https://app.solcard.cc/ | Fiat ↔ Solana cards / payment bridges — describe how you actually use it |
 
 ---
 
@@ -229,7 +222,7 @@ This is my way to give something back: collect what worked for me, filter out th
 
 | Tool / Site | Link | What it’s for |
 |------------|------|---------------|
-| WHOIS / RDAP | — | Domain registrants, expiry, name servers, basic infra around domains |
+| Whoer | https://whoer.net/ru |  IP |
 | Shodan | https://www.shodan.io | Exposed hosts, services, and banners by IP/ranges |
 | Censys | https://search.censys.io | Certificates, hosts, and internet snapshots by services/TLS |
 
@@ -239,7 +232,6 @@ This is my way to give something back: collect what worked for me, filter out th
 |------------|------|---------------|
 | Arkham | https://arkhamintelligence.com | Wallet tracing and on‑chain activity, entity graphs |
 | Dune | https://dune.com | Public dashboards and custom queries for on‑chain data |
-| Breadcrumbs / similar | — | Add once you actually adopt a specific tool here |
 
 ---
 
@@ -251,23 +243,18 @@ This is my way to give something back: collect what worked for me, filter out th
 |------------|------|---------------|
 | Obsidian | https://obsidian.md | Local notes, PKM, markdown brain backup |
 | Obsidian Publish | https://publish.obsidian.md | Public mirror of your notes / knowledge base |
-| Readwise / Reader | https://readwise.io | Capture highlights from books/articles and sync into notes |
 
 ### Health / tracking
 
 | Tool / Site | Link | What it’s for |
 |------------|------|---------------|
-| Apple Health + AutoSleep | — | Sleep, steps, cardio, day‑to‑day health metrics |
-| Strong / Hevy | https://www.strong.app | Workout logging, progressive overload tracking |
-| Cronometer / MyFitnessPal | https://cronometer.com | Calories and macros tracking when you need to dial in nutrition |
+| AutoSleep (with Apple Watch) | https://autosleepapp.tantsissa.com | Fully automatic sleep tracking, sleep quality scoring and trends |
+
 
 ### Ops / privacy / money
 
 | Tool / Site | Link | What it’s for |
 |------------|------|---------------|
-| 1Password / Bitwarden | https://bitwarden.com | Passwords, 2FA, and secure key storage |
-| Proton Mail / SimpleLogin | https://proton.me | Email and aliases without marketing‑hell overflow |
-| Revolut‑like bank | https://revolut.com | Splitting accounts: personal, business, travel, etc. |
 
 ---
 
