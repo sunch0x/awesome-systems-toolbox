@@ -61,90 +61,202 @@ This is my way to give something back: collect what worked for me, filter out th
 
 | Tool / Site   | Link                                            | What it’s for                                                                                           |
 |---------------|-------------------------------------------------|---------------------------------------------------------------------------------------------------------|
-| Mobbin        | https://mobbin.com                              | Studying real product flows: dashboards, auth, billing, settings, lists, forms                |
-| Dribbble      | https://dribbble.com                            | Getting visual vibe: hero sections, concepts, illustration styles                              |
-| Lapa Ninja    | https://www.lapa.ninja                          | Stealing landing structures for SaaS/startups (hero, features, pricing, FAQ, footer)  |
-| Landingfolio  | https://www.landingfolio.com                    | Copy‑worthy sections (pricing, signup, testimonials, 404, empty states) as patterns   |
-| Footer.design | https://www.footer.design                       | Quickly picking a decent footer layout instead of reinventing it                               |
+| Mobbin        | https://mobbin.com                              | Studying real product flows: dashboards, auth, billing, settings, lists, forms                         |
+| Dribbble      | https://dribbble.com                            | Getting visual vibe: hero sections, concepts, illustration styles                                      |
+| Lapa Ninja    | https://www.lapa.ninja                          | Stealing landing structures for SaaS/startups (hero, features, pricing, FAQ, footer)                   |
+| Landingfolio  | https://www.landingfolio.com                    | Copy‑worthy sections (pricing, signup, testimonials, 404, empty states) as patterns                    |
+| Footer.design | https://www.footer.design                       | Quickly picking a decent footer layout instead of reinventing it                                       |
 
 ### Components & micro‑UI
 
 | Tool / Site      | Link                             | What it’s for                                                                 |
 |------------------|----------------------------------|-------------------------------------------------------------------------------|
-| Reactbits        | https://reactbits.dev            | Dropping in animated React components: text, backgrounds, cursors, cards  |
-| Uiverse          | https://uiverse.io               | Small animated UI bits (buttons, toggles, loaders, inputs) ready to copy  |
-| Realtime Colors  | https://realtimecolors.com       | Testing color themes on realistic UI and exporting palettes to CSS/Tailwind    |
+| Reactbits        | https://reactbits.dev           | Dropping in animated React components: text, backgrounds, cursors, cards     |
+| Uiverse          | https://uiverse.io              | Small animated UI bits (buttons, toggles, loaders, inputs) ready to copy     |
+| Realtime Colors  | https://realtimecolors.com      | Testing color themes on realistic UI and exporting palettes to CSS/Tailwind  |
 
 ### Icons & illustrations
 
 | Tool / Site         | Link                                                                 | What it’s for                                                                                 |
 |---------------------|----------------------------------------------------------------------|-----------------------------------------------------------------------------------------------|
-| Flaticon            | https://www.flaticon.com                                            | Grabbing large icon sets in SVG/PNG/fonts, quick edits via web editor and collections  |
-| Phosphor Icons      | https://phosphoricons.com                                           | Consistent multi‑weight icon family for product UI, with React/Vue/Svelte + Figma support  |
-| Feather Icons       | https://feathericons.com                                            | Minimal, clean open‑source icon set for lightweight interfaces                      |
-| Icons8              | https://icons8.com                                                  | Icons, illustrations and photos for UI and marketing visuals                        |
+| Flaticon            | https://www.flaticon.com                                            | Large icon sets in SVG/PNG/fonts, quick edits via web editor and collections                 |
+| Phosphor Icons      | https://phosphoricons.com                                           | Consistent multi‑weight icon family for product UI, with React/Vue/Svelte + Figma support    |
+| Feather Icons       | https://feathericons.com                                            | Minimal, clean open‑source icon set for lightweight interfaces                               |
+| Icons8              | https://icons8.com                                                  | Icons, illustrations and photos for UI and marketing visuals                                 |
 | Icons8 Figma plugin | https://www.figma.com/community/plugin/791103617505812222/icons8-icons-illustrations-photos | Dropping Icons8 assets straight into Figma without leaving the editor |
 
 ### Identity / logo
 
-| Tool / Site   | Link             | What it’s for                                                                 |
-|---------------|------------------|-------------------------------------------------------------------------------|
-| Figr Identity | (Figma plugin)   | Auto‑building identity systems and design tokens directly in Figma |
-| Higgsfield    | https://higgsfield.ai | Generating hero images and seamless video loops / short promos with AI  |
-| Logo Diffusion| —                | Rapid‑fire logo exploration via diffusion before polishing in Figma |
+| Tool / Site   | Link           | What it’s for                                                     |
+|---------------|----------------|-------------------------------------------------------------------|
+| Figr Identity | (Figma plugin) | Auto‑building identity systems and design tokens directly in Figma|
+| Higgsfield    | https://higgsfield.ai | Generating hero images and seamless video loops / short promos with AI |
+| Logo Diffusion| —              | Rapid‑fire logo exploration via diffusion before polishing in Figma |
 
 ### 3D, animation & FX
 
 | Tool / Site    | Link                             | What it’s for                                                                 |
 |----------------|----------------------------------|-------------------------------------------------------------------------------|
-| Spline         | https://spline.design           | Creating 3D objects/scenes for hero sections and interactive visuals |
-| Unicorn Studio | https://www.unicorn.studio      | Adding no‑code WebGL effects and backgrounds on top of existing UI   |
-| Rive           | https://rive.app                | State‑driven icons, loaders and micro‑animations that react to your app  |
-| Paper Animator | https://paperanimator.com       | Quick paper‑style animations for standout illustrations/sections  |
+| Spline         | https://spline.design           | Creating 3D objects/scenes for hero sections and interactive visuals         |
+| Unicorn Studio | https://www.unicorn.studio      | No‑code WebGL effects and backgrounds on top of existing UI                  |
+| Rive           | https://rive.app                | State‑driven icons, loaders and micro‑animations that react to your app      |
+| Paper Animator | https://paperanimator.com       | Quick paper‑style animations for standout illustrations/sections             |
 
 ### Design tools & Figma
 
 | Tool / Site    | Link                     | What it’s for                                                                 |
 |----------------|--------------------------|-------------------------------------------------------------------------------|
-| Figma          | https://www.figma.com    | Main hub where all design work, components and prototypes live      |
-| HTML.to.design | https://www.html.to.design | Pulling existing websites into Figma as editable layouts/blocks   |
-| Flamel 3D      | (Figma plugin)           | Generating consistent 3D icon sets with AI directly in Figma |
-| Figma AI (Make)| —                        | Quickly drafting screens and React code from textual app descriptions  |
+| Figma          | https://www.figma.com    | Main hub where all design work, components and prototypes live               |
+| HTML.to.design | https://www.html.to.design | Pulling existing websites into Figma as editable layouts/blocks             |
+| Flamel 3D      | (Figma plugin)           | Generating consistent 3D icon sets with AI directly in Figma                |
+| Figma AI (Make)| —                        | Quickly drafting screens and React code from textual app descriptions        |
 
 ### AI & code (UI side)
 
-| Tool / Site          | Link                             | What it’s for                                                                 |
-|----------------------|----------------------------------|-------------------------------------------------------------------------------|
-| v0 by Vercel         | https://v0.app                   | Generating clean React/Next/Tailwind UI (landings, dashboards, routes) from prompts |
-| Any AI chat bot      | e.g. https://www.perplexity.ai   | Using an LLM as an external brain for patterns, prompts and design guidance  |
-| Cursor / Claude Code | —                                | Turning ideas and UI into working code, refactoring and wiring backend logic |
-
-
-
+| Tool / Site          | Link                     | What it’s for                                                                 |
+|----------------------|--------------------------|-------------------------------------------------------------------------------|
+| v0 by Vercel         | https://v0.dev           | Generating clean React/Next/Tailwind UI (landings, dashboards, routes) from prompts |
+| Any AI chat bot      | e.g. https://www.perplexity.ai | Using an LLM as an external brain for patterns, prompts and design guidance |
+| Cursor / Claude Code | —                        | Turning ideas and UI into working code, refactoring and wiring backend logic |
 
 ---
 
 ## AI & Coding
 
+### AI coding environments
+
+| Tool / Site | Link | What it’s for |
+|------------|------|---------------|
+| Cursor | https://cursor.sh | Main AI IDE: repo‑level context, autocomplete, refactors, feature generation |
+| Claude Code | https://claude.ai | Deep reviews, architecture, and refactors via chat with access to code |
+| Antigravity | https://antigravityide.org | Google IDE with Gemini agents: autocomplete, natural‑language commands, autonomous tasks in code/terminal/browser |
+| v0 by Vercel | https://v0.dev | Generate React/Next/Tailwind UI from prompts, fast landing pages and dashboards |
+| Lovable | https://lovable.dev | Text‑to‑app: fast prototypes and full‑stack apps from natural‑language specs |
+
+### General AI / chat
+
+| Tool / Site | Link | What it’s for |
+|------------|------|---------------|
+| ChatGPT | https://chat.openai.com | General coding assistance, ideas, text, and quick prototypes |
+| Perplexity | https://www.perplexity.ai | Research, tool comparisons, specs and architecture drafts on top of the web |
+| Grok | https://x.ai | Fast answers and code/meme‑vibe directly inside the X ecosystem |
+| Gemini | https://gemini.google.com | Integrated with Google stack, assistant for code and content tasks |
+
+### Dev tooling & automation
+
+| Tool / Site | Link | What it’s for |
+|------------|------|---------------|
+| GitHub Copilot | https://github.com/features/copilot | Inline code and test suggestions in IDE, kills boilerplate and routine |
+
 ---
 
 ## Crypto
 
- – will be filled as I stabilize my crypto stack
+### Wallets & key management
+
+| Tool / Site | Link | What it’s for |
+|------------|------|---------------|
+| Phantom | https://phantom.app | Main Solana wallet for on‑chain, NFTs, and dApp integrations |
+| Backpack | https://backpack.app | Wallet + xNFT ecosystem on Solana, convenient for app‑specific flows |
+| Rabby | https://rabby.io | EVM wallet with strong UX and safety focus for DeFi |
+| MetaMask | https://metamask.io | Default EVM browser wallet used by most dApps “by default” |
+| Ledger / Trezor | https://www.ledger.com | Cold storage for private keys and larger balances, plugged into hot wallets |
+
+### On‑chain analytics & explorers
+
+| Tool / Site | Link | What it’s for |
+|------------|------|---------------|
+| Dune | https://dune.com | SQL dashboards for on‑chain data, protocol metrics and trends |
+| Arkham | https://arkhamintelligence.com | On‑chain OSINT: wallet labels, entity graphs, and activity tracking |
+| BscScan | https://bscscan.com | Explorer for BNB Chain: transactions, contracts, tokens |
+| Solscan | https://solscan.io | Explorer for Solana: transactions, programs, events, debugging integrations |
+| Dexscreener | https://dexscreener.com | Real‑time charts and liquidity across many DEX pairs and chains |
+| Birdeye | https://birdeye.so | Charts and analytics for Solana (and others), filters for volume and trends |
+| GMGN | https://gmgn.ai | Terminal + bots for memecoins, smart‑money tracking and fast trading |
+| Axiom | — | Fill in your actual use case here once it solidifies |
+
+### Market data & rankings
+
+| Tool / Site | Link | What it’s for |
+|------------|------|---------------|
+| CoinGecko | https://www.coingecko.com | Prices, volumes, token metrics, and market lists |
+| CoinMarketCap | https://coinmarketcap.com | Classic market aggregator, listings, historical data |
+| DefiLlama | https://defillama.com | TVL, protocols, chains, and DeFi metrics |
+| CryptoRank | https://cryptorank.io | Launchpads, vesting, tokenomics, and event calendars |
+
+### Infra / privacy / accounts
+
+| Tool / Site | Link | What it’s for |
+|------------|------|---------------|
+| HAPP | — | Proxy / VPN / anonymity layer around your crypto activity (describe your exact setup) |
+| Stealthsurf | — | Private browsing / residential IPs / bypassing geo‑restrictions |
+| Webshare | https://www.webshare.io | Rotating proxies for farming and multi‑account setups |
+
+### Numbers, SIMs, cards
+
+| Tool / Site | Link | What it’s for |
+|------------|------|---------------|
+| 5SIM | https://5sim.net | Temporary phone numbers for exchange / service registrations |
+| Solcard | — | Fiat ↔ Solana cards / payment bridges — describe how you actually use it |
 
 ---
 
 ## OSINT
 
- – OSINT tools and methods I actually use in practice
+### People / profiles
+
+| Tool / Site | Link | What it’s for |
+|------------|------|---------------|
+| Google Dorks | https://google.com | Advanced search over profiles, leaks, and documents |
+| LinkedIn | https://www.linkedin.com | Profiles, connections, and career history |
+| Telegram search / bots | — | Channels, usernames, cross‑interest intersections |
+
+### Domains, IP, infrastructure
+
+| Tool / Site | Link | What it’s for |
+|------------|------|---------------|
+| WHOIS / RDAP | — | Domain registrants, expiry, name servers, basic infra around domains |
+| Shodan | https://www.shodan.io | Exposed hosts, services, and banners by IP/ranges |
+| Censys | https://search.censys.io | Certificates, hosts, and internet snapshots by services/TLS |
+
+### Crypto OSINT
+
+| Tool / Site | Link | What it’s for |
+|------------|------|---------------|
+| Arkham | https://arkhamintelligence.com | Wallet tracing and on‑chain activity, entity graphs |
+| Dune | https://dune.com | Public dashboards and custom queries for on‑chain data |
+| Breadcrumbs / similar | — | Add once you actually adopt a specific tool here |
 
 ---
 
 ## Life Infrastructure
 
- – notes, privacy, analytics, health and other “life ops”
+### Notes & knowledge
+
+| Tool / Site | Link | What it’s for |
+|------------|------|---------------|
+| Obsidian | https://obsidian.md | Local notes, PKM, markdown brain backup |
+| Obsidian Publish | https://publish.obsidian.md | Public mirror of your notes / knowledge base |
+| Readwise / Reader | https://readwise.io | Capture highlights from books/articles and sync into notes |
+
+### Health / tracking
+
+| Tool / Site | Link | What it’s for |
+|------------|------|---------------|
+| Apple Health + AutoSleep | — | Sleep, steps, cardio, day‑to‑day health metrics |
+| Strong / Hevy | https://www.strong.app | Workout logging, progressive overload tracking |
+| Cronometer / MyFitnessPal | https://cronometer.com | Calories and macros tracking when you need to dial in nutrition |
+
+### Ops / privacy / money
+
+| Tool / Site | Link | What it’s for |
+|------------|------|---------------|
+| 1Password / Bitwarden | https://bitwarden.com | Passwords, 2FA, and secure key storage |
+| Proton Mail / SimpleLogin | https://proton.me | Email and aliases without marketing‑hell overflow |
+| Revolut‑like bank | https://revolut.com | Splitting accounts: personal, business, travel, etc. |
 
 ---
+
 ## Contributing
 
 I’m always happy to discover new tools.  
@@ -159,7 +271,7 @@ If you think something belongs here:
 
 If you want to see how I actually use this toolbox in practice, or you’re just curious about my content and experiments:
 
-- TWITTER / X (ENG): https://x.com/@sunch0x 
+- TWITTER / X (ENG): https://x.com/@sunch0x  
 - Telegram (RU): https://t.me/sunch_exe  
 - Obsidian / notes repo: https://publish.obsidian.md/sunch0x.dev  
 
