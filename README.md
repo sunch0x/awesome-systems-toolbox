@@ -1,4 +1,4 @@
-# Awesome Systems Toolbox
+# Awesome Crypto AI Systems Stack
 
 Topics: crypto, AI, coding, OSINT, design, and everyday life systems. A library of tools, links, and workflows that I actually use and keep updating.
 
